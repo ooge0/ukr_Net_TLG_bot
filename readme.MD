@@ -1,0 +1,1 @@
+For launching the telegram bot, please paste you telegram token into the auth_data.py file
